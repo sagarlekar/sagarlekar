@@ -7,7 +7,7 @@
 
 Senior Software Engineer based in **New York**.
 
-Currently at **[VTS](https://www.vts.com)** building data pipelines and AI products on top of 13 billion sq ft of commercial real estate data. Previously engineered bookings and search at **WeWork**, led teams at **Trantor**, built spatial infrastructure at **CSTEP**, and co-founded **Foodlets**.
+Currently at **[VTS](https://www.vts.com)** building Data Pipelines and AI products on top of 13 billion sq ft of commercial real estate data. Previously engineered bookings and search services at **WeWork**, led teams at **Trantor**, built spatial infrastructure, transportation simulations at **CSTEP**, and co-founded **Foodlets**.
 
 ---
 
