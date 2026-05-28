@@ -55,15 +55,6 @@ Currently at **[VTS](https://www.vts.com)** building Data Pipelines and AI produ
 
 ---
 
-### 📦 Open source
-
-| Project | What it does |
-|---|---|
-| [`heatindex`](https://github.com/sagarlekar/heatindex) | Ruby gem — calculates human-perceived heat index from temperature + humidity |
-| [`shp2wkt`](https://github.com/sagarlekar/shp2wkt) | CLI + Ruby class for converting Shapefiles → Well-Known Text for GIS pipelines |
-
----
-
 <div align="center">
 
 💬 [linkedin.com/in/sagararlekar](https://www.linkedin.com/in/sagararlekar/)
