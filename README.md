@@ -7,7 +7,7 @@
 
 Senior Software Engineer based in **New York**.
 
-Currently at **[VTS](https://www.vts.com)** building Data Pipelines and AI products on top of 13 billion sq ft of commercial real estate data. Previously engineered bookings and search services at **WeWork**, led teams at **Trantor**, built spatial infrastructure, transportation simulations at **CSTEP**, and co-founded **Foodlets**.
+Currently at **[VTS](https://www.vts.com)** building Data Pipelines and AI products on top of 13 billion sq ft of commercial real estate data. Previously engineered bookings and search services at **WeWork**, led teams at **Trantor** in Fintech and Government Projects, built spatial infrastructure, transportation simulations at **CSTEP**, and co-founded **Foodlets**.
 
 ---
 
@@ -42,14 +42,14 @@ Currently at **[VTS](https://www.vts.com)** building Data Pipelines and AI produ
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
-### 📊 By the numbers
+### 📊 Highlights
 
 <div align="center">
 
 | 🗓️ **15+ years** shipping production software | 📐 **13B sq ft** of real estate data at VTS |
 |:---|:---|
 | 🤖 **Conversational AI** with AWS AgentCore + RAG | 🚀 **1 startup co-founded** (Foodlets) |
-| 📦 **2 Ruby gems** published | 🌍 **GIS & spatial systems** from research to production |
+| 📦 **2 Ruby gems** | 🌍 **GIS & spatial systems** research papers |
 
 </div>
 
