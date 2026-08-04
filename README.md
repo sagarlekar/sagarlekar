@@ -46,14 +46,14 @@ Currently at **[VTS](https://www.vts.com)** building Data Pipelines and AI produ
 
 ---
 
-### 🫖 Barista vs Chaiwala — an original board game
+### 🫖 Barista vs Chaiwala — a 5x5 board game
 
 You're the Chaiwala vs three Baristas — capture customers and open a chai stall before you're boxed in and eliminated! A tactical duel of wits — more intricate than tic-tac-toe, far simpler than chess — inspired by **cellular automata** and **asymmetric games**.
 
 <p align="center">
+  <img src="assets/barista-vs-chaiwala-board.png" height="250" alt="Chai Stall" />
   <img src="assets/chai-stall.png" height="250" alt="Chai Stall" />
   <img src="assets/chai-trap.gif" height="250" alt="Chai Trap" />
-  <img src="assets/coffeenization.gif" height="250" alt="Coffeenization" />
 </p>
 
 Online edition in **private preview** — [**reach out**](https://www.linkedin.com/in/sagararlekar/) to play.
@@ -78,9 +78,9 @@ Want a printable board? [**reach out**](https://www.linkedin.com/in/sagararlekar
 
 | 🗓️ **15+ years** shipping production software | 📐 **13B sq ft** of real estate data at VTS |
 |:---|:---|
-| 🤖 **Conversational AI** with AWS AgentCore + RAG | 🚀 **1 startup co-founded** (Foodlets) |
-| 📦 **2 Ruby gems** | 🌍 **Published research** in GIS & simulations |
-| 🏛️ Worked across **startups, government & research** | 🎲 **2 original board games** designed |
+| 🤖 **Conversational AI** with AWS AgentCore, RAG, Cortext | 🚀 **1 startup co-founded** (Foodlets) |
+| 🏛️ Worked across **startups, government & research** |  🌍 **Published research** in GIS & simulations |
+| ✈️ Earning my **private pilot license** | 🎲 **2 original board games** designed |
 
 </div>
 
