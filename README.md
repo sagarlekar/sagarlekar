@@ -80,7 +80,7 @@ Want a printable board? [**reach out**](https://www.linkedin.com/in/sagararlekar
 |:---|:---|
 | 🤖 **Conversational AI** with AWS AgentCore, RAG, Cortext | 🚀 **1 startup co-founded** (Foodlets) |
 | 🏛️ Worked across **startups, government & research** |  🌍 **Published research** in GIS & simulations |
-| ✈️ Earning my **private pilot license** | 🎲 **2 original board games** designed |
+| 🎲 **2 board games** designed | 🎸 **Writing** songs |
 
 </div>
 
